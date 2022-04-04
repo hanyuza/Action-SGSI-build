@@ -6,7 +6,7 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://hugeota.d.miui.com/21.5.31/miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip'
+        default: 'https://aaazkmplb6iuy7vh5mffzfqtribyk888.node.ppio.cloud:21507/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/meizu18X/9.2.3.2/cn/20211202045911/25302566/update.zip?f_ver=v1&max_age=7776000&r=DRUHFDd5HWETKys1IwcxFksMFg0%2BNhwtGi92Hj0ULgQEExZLAi9LIxBtND09HDZCXTlcXWpxHH1bcHY7OklxQ1dQQlZ0cQJ6QHtoaXtUdkBVU0ZScmxHPhEjLT16HCoDChEWCicnXH8aMjw2NwItQg%3D%3D&ppiouid=624ac98c5ccaa500017618db7c7f1397'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
